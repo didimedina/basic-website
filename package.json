@@ -1,13 +1,13 @@
 {
   "name": "basic-website",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.html",
   "license": "MIT",
   "devDependencies": {
+    "parcel-bundler": "^1.12.2",
     "tailwindcss": "^0.7.4"
   },
   "dependencies": {
-    "animejs": "^3.0.1",
-    "parcel-bundler": "^1.12.2"
+    "animejs": "^3.0.1"
   }
 }
